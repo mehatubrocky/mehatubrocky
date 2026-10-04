@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mehatubrocky">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;Building+with+React+%26+Next.js;Entrepreneur+%7C+Founder+of+Neoscoder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Full-Stack+Web+%26+Mobile+Developer;Building+with+React%2C+Next.js+%26+React+Native;Entrepreneur+%7C+Founder+of+Neoscoder" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,9 +16,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Web developer building full-stack applications under **Neoscoder**
+- 🚀 Web & mobile developer building full-stack applications under **Neoscoder**
+- 📱 Building cross-platform mobile apps with **React Native**
 - 🌱 Currently deepening my **React.js** skills
-- 👀 Interested in **web development**, SaaS products, and scalable architecture
+- 👀 Interested in **web & mobile app development**, SaaS products, and scalable architecture
 - 💞️ Looking to collaborate on **open-source projects and web app ideas**
 - 📫 Reach me via my [portfolio](https://mehatub-rocky.vercel.app/)
 
@@ -38,6 +39,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 **Backend & Database**
 
